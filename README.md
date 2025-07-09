@@ -9,4 +9,4 @@ What is this project about?
 Data Analysis/Cleaning:  SQL
 I have used SQL to remove the null values of data to create clean data.
 * Visualization/Dashboarding:  Tableau desktop
-* for creating the Dashboard Of the customer Churn Data i have used visualization tool Tabluea.
+* for creating the Dashboard Of the customer Churn Data i have used visualization tool Tableau.
